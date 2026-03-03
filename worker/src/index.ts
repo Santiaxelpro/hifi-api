@@ -17,8 +17,8 @@ interface Credential {
   expiresAt?: number; // epoch seconds
 }
 
-const API_VERSION = "2.4";
-const REPO_URL = "https://github.com/uimaxbai/hifi-api";
+const API_VERSION = "2.5";
+const REPO_URL = "https://github.com/santiaxelpro/hifi-api";
 const DEFAULT_CLIENT_ID = "zU4XHVVkc2tDPo4t";
 const DEFAULT_CLIENT_SECRET = "VJKhDFqJPqvsPVNBV6ukXTJmwlvbttP7wlMlrc72se4=";
 
